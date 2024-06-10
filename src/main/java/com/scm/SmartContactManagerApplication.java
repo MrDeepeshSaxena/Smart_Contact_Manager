@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class SmartContactManagerApplication {
 
     public static void main(String[] args) {
-		System.out.println("Aplication Started");
+
 		SpringApplication.run(SmartContactManagerApplication.class, args);
     }
 
